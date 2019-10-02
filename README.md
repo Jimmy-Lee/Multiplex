@@ -1,3 +1,3 @@
 # Multiplex
 
-A description of this package.
+Mix Objcective-C and Swift in a swift package.
